@@ -1,0 +1,173 @@
+CaptainPBX Software License
+SPDX-License-Identifier: MIT
+
+Copyright (c) 2026 CaptainPBX. All rights reserved, except as expressly
+granted below.
+
+This license covers Captain Core, CaptainPBX modules, the CaptainPBX
+installer and appliance overlay, and related documentation shipped with
+those works (together, the "Software"). Third-party components bundled
+or used with the Software (including Asterisk, operating-system packages,
+and other libraries) remain under their own licenses and copyrights.
+
+
+1. Grant of copyright license
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of the Software and associated documentation files, to deal in the
+Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+  (a) The above copyright notice, this permission notice, and this
+      entire license shall be included in all copies or substantial
+      portions of the Software.
+
+  (b) Modified versions must not be misrepresented as the original
+      Software or as an official CaptainPBX release. Reasonable notice
+      of changes is required in source distributions (for example a
+      changelog or a notice file).
+
+
+2. Reservation of rights; trademarks
+
+No rights are granted except those expressly stated in this license.
+In particular, this license does not grant any right to use the names,
+logos, domain names, product names, or other brand features of CaptainPBX
+or of the copyright holders (the "Marks"), whether as a trademark, trade
+name, or otherwise.
+
+You may state, factually, that your product is derived from or
+interoperates with the Software. You may not:
+
+  - use the Marks in a way that suggests sponsorship, endorsement,
+    certification, or official status;
+  - use the Marks as the primary name of a fork, hosted service, or
+    appliance image;
+  - register confusingly similar marks, domains, or social-media names.
+
+Any goodwill from permitted factual references inures to the copyright
+holders.
+
+
+3. Patent
+
+Each copyright holder grants you a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free patent license to make, use, sell, offer for
+sale, import, and otherwise run the Software, solely for patent claims
+licensable by that copyright holder that are necessarily infringed by
+their contribution to the Software.
+
+If you institute patent litigation against any party (including a
+cross-claim or counterclaim) alleging that the Software constitutes
+direct or contributory patent infringement, any patent licenses granted
+to you under this license for that Software terminate as of the date
+such litigation is filed.
+
+
+4. Contributions
+
+By submitting a patch, pull request, issue with code, or other
+contribution ("Contribution"), you:
+
+  (a) represent that you have the right to grant the licenses in this
+      document (and that the Contribution is your original work, or you
+      have sufficient rights from the owner);
+  (b) license the Contribution to the copyright holders and to recipients
+      of the Software under the same terms as this license (inbound =
+      outbound);
+  (c) waive, to the extent permitted by law, moral-rights claims that
+      would prevent the copyright holders from exercising those licenses.
+
+Unless you state otherwise in writing, Contributions are not made under
+a separate contributor agreement. Recipients of a given copy keep the
+terms that accompanied that copy. Later published versions of this
+license apply only to copies that include those later terms.
+
+
+5. No warranty; no duty to support
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NONINFRINGEMENT. THE COPYRIGHT HOLDERS AND AUTHORS DO NOT WARRANT THAT
+THE SOFTWARE WILL BE ERROR-FREE, SECURE, CONTINUOUSLY AVAILABLE, OR FIT
+FOR EMERGENCY, LIFE-SAFETY, OR TOLL-QUALITY TELEPHONY.
+
+There is no obligation to provide updates, support, or security fixes.
+
+
+6. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHORS, COPYRIGHT HOLDERS, CONTRIBUTORS, OR DISTRIBUTORS BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE, INCLUDING WITHOUT LIMITATION LOST PROFITS,
+LOST REVENUE, LOST DATA, LOST OR FAILED CALLS, RECORDING FAILURES,
+REGULATORY FINES, OR COST OF SUBSTITUTE SERVICES, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+If liability cannot be fully excluded, it is limited to the greater of
+(i) the amount you paid (if any) to the copyright holders for that copy
+of the Software, or (ii) fifty US dollars (USD 50).
+
+
+7. Indemnity
+
+If you distribute the Software, offer it as a hosted or managed service,
+or provide paid support, warranties, or indemnities to third parties,
+you shall indemnify, defend, and hold harmless the authors, copyright
+holders, and contributors from and against any claims, damages, losses,
+and expenses (including reasonable legal fees) arising from that
+distribution or those extra obligations, or from your modification or
+misuse of the Software.
+
+
+8. Operator and legal use (telephony)
+
+The Software is a voice, messaging, and telephony platform. You, the
+operator, are solely responsible for lawful use of the Software and of
+any voice, video, messaging, signaling, or related traffic you originate
+or allow, including without limitation:
+
+  - fraud, toll fraud, and unauthorized origination or termination;
+  - unsolicited, abandoned, or otherwise unlawful calling or messaging;
+  - recording, monitoring, and wiretap consent;
+  - emergency calling (including location, callback, and outage duties);
+  - numbering, numbering-plan, and interconnection rules;
+  - data-protection, retention, and lawful-intercept duties;
+  - export control, sanctions, and embargo rules.
+
+The authors, copyright holders, and distributors accept no
+responsibility for misuse, outages, lost calls, data loss, injury, or
+legal consequences of operating the Software. You must not use the
+Software where failure could cause death, personal injury, or severe
+physical or environmental damage unless you independently assume that
+risk in writing.
+
+
+9. Third-party software
+
+This license does not sublicense third-party works. Comply with each
+third-party license. Nothing here makes the copyright holders authors
+or licensors of Asterisk or of any other upstream project.
+
+
+10. Termination
+
+Your rights under this license terminate automatically if you fail to
+comply and do not cure within thirty (30) days of notice (or
+immediately for trademark misuse or patent litigation as in section 3).
+Obligations that by their nature should survive (including sections 2,
+5, 6, 7, 8, and 9) survive termination. Downstream recipients who
+received copies in compliance retain their licenses.
+
+
+11. Entire license
+
+This document is the complete license for the Software. If any provision
+is held unenforceable, the remainder remains in effect. Failure to
+enforce a provision is not a waiver.
