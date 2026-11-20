@@ -1,0 +1,77 @@
+CaptainPBX
+Copyright (C) 2026 CaptainPBX and contributors
+https://www.captainpbx.com
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your
+option) any later version, together with the additional terms below.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public
+License in the LICENSE file for more details.
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+
+
+ADDITIONAL TERMS UNDER SECTION 7 OF THE GNU AGPL VERSION 3
+==========================================================
+
+The following additional terms apply to CaptainPBX and to every copy and
+modified version of it. They are permitted by section 7 of the GNU Affero
+General Public License version 3. Anyone who conveys CaptainPBX or a work
+based on it must pass these terms on unchanged.
+
+1. Attribution (section 7(b))
+
+   Every interactive user interface of CaptainPBX or of a work based on
+   it must keep, in its Appropriate Legal Notices, the attribution
+   "Powered by CaptainPBX" linking to https://www.captainpbx.com, a link
+   to the Corresponding Source, and a link to these license terms. In the
+   unmodified admin interface these are the links in the page footer.
+   A modified version may restyle or move them, but they must stay
+   readable and reachable by every user of the interface.
+
+2. Modified versions (section 7(c))
+
+   A modified version must be marked as changed in reasonable ways and
+   must not be presented, named or sold as CaptainPBX, as an official
+   CaptainPBX release, or as endorsed by the CaptainPBX project.
+
+3. Trademarks (section 7(e))
+
+   This license does not grant any right to use the names CaptainPBX,
+   Captain Core, Captain Shield, Captain Trust, Captain Bridge, Captain
+   Watch, Captain Vault, Captain Bulk, Captain AI, Captain Auth, Captain
+   Audit, Captain Remind or Captain Code, the CaptainPBX logos, or the
+   captainpbx.com domain, except as required to keep the attribution in
+   term 1 and as allowed by TRADEMARKS.md.
+
+4. Warranty and liability (section 7(a))
+
+   The telecommunications disclaimer in DISCLAIMER.md supplements
+   sections 15 and 16 of the license. In particular, the authors and
+   copyright holders are not liable for toll fraud, carrier or usage
+   charges, failed or misrouted emergency calls, unlawful calling or
+   recording, or data protection breaches arising from the operation of
+   CaptainPBX.
+
+5. Indemnification (section 7(f))
+
+   Anyone who conveys CaptainPBX or a modified version of it with
+   contractual assumptions of liability to the recipient (for example a
+   paid support contract, a warranty, a service level agreement, or a
+   hosted or managed PBX service) must indemnify the authors and copyright
+   holders for any liability that those contractual assumptions directly
+   impose on them.
+
+
+THIRD-PARTY SOFTWARE
+====================
+
+CaptainPBX works with, and installer images bundle, software released by
+others under their own licenses, including Asterisk (GPL-2.0), Debian
+packages, PHP, Symfony, React and the libraries listed in composer.lock and
+package-lock.json files. Those licenses apply to those components. Nothing
+in these terms makes the CaptainPBX authors the licensors of that software.
